@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20190924T160000Z
+DTEND:20190924T180000Z
+SUMMARY:První program
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/hello/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191001T160000Z
+DTEND:20191001T180000Z
+SUMMARY:Cykly
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/loops/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191022T160000Z
+DTEND:20191022T180000Z
+SUMMARY:Procvičování & soubory
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/practice/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191112T170000Z
+DTEND:20191112T190000Z
+SUMMARY:Výjimky & moduly
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/tests/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191008T160000Z
+DTEND:20191008T180000Z
+SUMMARY:While & Vlastní funkce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/while-functions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191119T170000Z
+DTEND:20191119T190000Z
+SUMMARY:Opakování & Třídy
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/class/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191203T170000Z
+DTEND:20191203T190000Z
+SUMMARY:Grafika
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/pyglet/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190917T160000Z
+DTEND:20190917T180000Z
+SUMMARY:Instalace
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/install/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191029T170000Z
+DTEND:20191029T190000Z
+SUMMARY:Seznamy
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/list/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191105T170000Z
+DTEND:20191105T190000Z
+SUMMARY:Slovníky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/dict/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191207T170000Z
+DTEND:20191207T190000Z
+SUMMARY:Závěrečný hackaton
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/hackaton/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191015T160000Z
+DTEND:20191015T180000Z
+SUMMARY:Řetězce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/strings/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191126T170000Z
+DTEND:20191126T190000Z
+SUMMARY:Třídy II & Dědičnost
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-praha-podzim-cznic/sessions/inheritance/
+END:VEVENT
+END:VCALENDAR

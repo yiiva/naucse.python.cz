@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20190925T160000Z
+DTEND:20190925T180000Z
+SUMMARY:Výrazy a podmínky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/expressions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191002T160000Z
+DTEND:20191002T180000Z
+SUMMARY:Funkce a cykly
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/cycles/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191016T160000Z
+DTEND:20191016T180000Z
+SUMMARY:Chyby a rekurze
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/errors/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191127T170000Z
+DTEND:20191127T190000Z
+SUMMARY:Requests
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/solitaire/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191030T170000Z
+DTEND:20191030T190000Z
+SUMMARY:Opakování
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/review/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191009T160000Z
+DTEND:20191009T180000Z
+SUMMARY:Funkce a řetězce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/string/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191023T160000Z
+DTEND:20191023T180000Z
+SUMMARY:Moduly a testy
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/modules/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191113T170000Z
+DTEND:20191113T190000Z
+SUMMARY:Soubory a adresáře
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/filesystem/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191211T170000Z
+DTEND:20191211T190000Z
+SUMMARY:Datová analýza
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/datanal/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191204T170000Z
+DTEND:20191204T190000Z
+SUMMARY:Třídy a dědičnost
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/class/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191218T170000Z
+DTEND:20191218T190000Z
+SUMMARY:Závěrečná lekce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/bonus/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191106T170000Z
+DTEND:20191106T190000Z
+SUMMARY:Seznamy a n-tice
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/list/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191120T170000Z
+DTEND:20191120T190000Z
+SUMMARY:Slovníky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/pyladies-brno-podzim-st/sessions/dict/
+END:VEVENT
+END:VCALENDAR

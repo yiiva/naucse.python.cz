@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20191216T170000Z
+DTEND:20191216T190000Z
+SUMMARY:MicroPython
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/micropython/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191111T170000Z
+DTEND:20191111T190000Z
+SUMMARY:Sekvence
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/solitaire/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191007T160000Z
+DTEND:20191007T180000Z
+SUMMARY:Funkce a řetězce
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/turtle/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191202T170000Z
+DTEND:20191202T190000Z
+SUMMARY:Soubory a adresáře
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/iterable/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191014T160000Z
+DTEND:20191014T180000Z
+SUMMARY:Chyby a rekurze
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/file/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190923T160000Z
+DTEND:20190923T180000Z
+SUMMARY:Výrazy a podmínky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/expressions/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190930T160000Z
+DTEND:20190930T180000Z
+SUMMARY:Funkce a cykly
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/cycles/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191118T170000Z
+DTEND:20191118T190000Z
+SUMMARY:Slovníky
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/dict/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191021T160000Z
+DTEND:20191021T180000Z
+SUMMARY:Moduly a testy
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/review/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191125T170000Z
+DTEND:20191125T190000Z
+SUMMARY:Opakování
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/bonus/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191209T170000Z
+DTEND:20191209T190000Z
+SUMMARY:Třídy a dědičnost
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/class/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191104T170000Z
+DTEND:20191104T190000Z
+SUMMARY:Seznamy a n-tice
+TRANSP:OPAQUE
+UID:https://naucse.python.cz/2019/brno-podzim-pondeli/sessions/list/
+END:VEVENT
+END:VCALENDAR
